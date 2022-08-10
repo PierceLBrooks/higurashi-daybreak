@@ -6,152 +6,152 @@ Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 杉林.bmp
+map_Kd 103_73_103_151.tga
 
 newmtl Material__4990____[Sub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 杉林端.bmp
+map_Kd 103_73_103_151_122_239.tga
 
 newmtl Material__4991__X__03Sub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 森林03.bmp
+map_Kd 104_238_103_151_48_51.tga
 
 newmtl Material__4991__X__05Sub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 森林05.bmp
+map_Kd 104_238_103_151_48_53.tga
 
 newmtl Material__4991______G_l_t_____PSub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 杉省エネ葉っぱ01a.bmp
+map_Kd 103_73_119_1_48_168_48_205_132_73_48_99_48_113_48_49_97.tga
 
 newmtl Material__4991__X__04Sub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 森林04.bmp
+map_Kd 104_238_103_151_48_52.tga
 
 newmtl Material__4991______G_l_t____2Sub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 杉省エネ葉っぱ02a.bmp
+map_Kd 103_73_119_1_48_168_48_205_132_73_48_99_48_113_48_50_97.tga
 
 newmtl Material__4992_____Sub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 木の皮.bmp
+map_Kd 103_40_48_110_118_174.tga
 
 newmtl Material__4992______G_l_t_____PSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 杉省エネ葉っぱ01a.bmp
+map_Kd 103_73_119_1_48_168_48_205_132_73_48_99_48_113_48_49_97.tga
 
 newmtl Material__4992______G_l_t____2Sub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 杉省エネ葉っぱ02a.bmp
+map_Kd 103_73_119_1_48_168_48_205_132_73_48_99_48_113_48_50_97.tga
 
 newmtl Material__4993________G_lSub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 木の皮.bmp
+map_Kd 103_40_48_110_118_174.tga
 
 newmtl Material__4993______G_l_t_____PSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 杉省エネ葉っぱ01a.bmp
+map_Kd 103_73_119_1_48_168_48_205_132_73_48_99_48_113_48_49_97.tga
 
 newmtl Material__4993______G_l_t____2Sub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 杉省エネ葉っぱ02a.bmp
+map_Kd 103_73_119_1_48_168_48_205_132_73_48_99_48_113_48_50_97.tga
 
 newmtl Material__4993__X__05Sub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 森林05.bmp
+map_Kd 104_238_103_151_48_53.tga
 
 newmtl Material__4993__X__04Sub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 森林04.bmp
+map_Kd 104_238_103_151_48_52.tga
 
 newmtl Material__4994_kusa_01Sub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 草03.bmp
+map_Kd 131_73_48_51.tga
 
 newmtl Material__4994_kusa_02Sub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 雑草01.bmp
+map_Kd 150_209_131_73_48_49.tga
 
 newmtl Material__4994__tSub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 葉っぱ小01.bmp
+map_Kd 132_73_48_99_48_113_92_15_48_49.tga
 
 newmtl Material__4994___Sub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 幹白.bmp
+map_Kd 94_121_118_125.tga
 
 newmtl Material__4994____t____Sub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 上葉っぱ03.bmp
+map_Kd 78_10_132_73_48_99_48_113_48_51.tga
 
 newmtl Material__4994__X__04Sub5
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 森林04.bmp
+map_Kd 104_238_103_151_48_52.tga
 
 newmtl _n___t____
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 地面葉っぱ01.bmp
+map_Kd 87_48_151_98_132_73_48_99_48_113_48_49.tga
 

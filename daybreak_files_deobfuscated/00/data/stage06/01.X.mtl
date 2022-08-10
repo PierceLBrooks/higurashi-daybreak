@@ -6,84 +6,84 @@ Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd –{‘Ì‰®ª.bmp
+map_Kd æœ¬ä½“å±‹æ ¹.bmp
 
 newmtl Material__194________lSub1
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd _Ğ–Í—l.bmp
+map_Kd ç¥ç¤¾æ¨¡æ§˜.bmp
 
 newmtl Material__194__{_____C__Sub2
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd –{‘ÌƒƒCƒ“.bmp
+map_Kd æœ¬ä½“ãƒ¡ã‚¤ãƒ³.bmp
 
 newmtl Material__194_____Sub3
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd ”’•Ç.bmp
+map_Kd ç™½å£.bmp
 
 newmtl Material__194__{____2Sub4
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd –{‘ÌÎ2.bmp
+map_Kd æœ¬ä½“çŸ³2.bmp
 
 newmtl Material__194__{____Sub5
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd –{‘Ì”à.bmp
+map_Kd æœ¬ä½“æ‰‰.bmp
 
 newmtl Material__194_____3Sub6
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd ”’•Ç3.bmp
+map_Kd ç™½å£3.bmp
 
 newmtl Material__194__{___K_i__Sub7
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd –{‘ÌŠK’i’Œ.bmp
+map_Kd æœ¬ä½“éšæ®µæŸ±.bmp
 
 newmtl Material__194__{____2lineSub8
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd –{‘ÌÎ2line.bmp
+map_Kd æœ¬ä½“çŸ³2line.bmp
 
 newmtl Material__194__{____1Sub9
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd –{‘ÌÎ1.bmp
+map_Kd æœ¬ä½“çŸ³1.bmp
 
 newmtl Material__194__n____3Sub10
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd Rª02_1.bmp
+map_Kd 92_113_104_57_48_50_95_49.tga
 
 newmtl Material__194__{___K_i__Sub11
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd –{‘ÌŠK’iÎm.bmp
+map_Kd æœ¬ä½“éšæ®µçŸ³m.bmp
 
 newmtl Material__194__zSub12
 Kd 0.0780000016 0.101999998 0.203999996
@@ -96,68 +96,68 @@ Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd _Ğ–Í—l‚Q.bmp
+map_Kd ç¥ç¤¾æ¨¡æ§˜ï¼’.bmp
 
 newmtl Material__195_seifuku_fukuSub0
 Kd 1 1 1
 Ks 0.0250000004 0.0250000004 0.0250000004
 Ke 0 0 0
 illum 1
-map_Kd renafuku7.bmp
+map_Kd 114_101_110_97_102_117_107_117_55.tga
 
 newmtl Material__195_seifuku_faceSub1
 Kd 1 1 1
 Ks 0.0250000004 0.0250000004 0.0250000004
 Ke 0 0 0
 illum 1
-map_Kd renaface18.bmp
+map_Kd 114_101_110_97_102_97_99_101_49_56.tga
 
 newmtl Material__195_seifuku_headSub2
 Kd 1 1 1
 Ks 0.0250000004 0.0250000004 0.0250000004
 Ke 0 0 0
 illum 1
-map_Kd ƒŒƒi”¯‚Ì–Ñ16.bmp
+map_Kd 48_236_48_202_154_234_48_110_107_219_49_54.tga
 
 newmtl Material__195_seifuku_sukatoSub3
 Kd 1 1 1
 Ks 0.0250000004 0.0250000004 0.0250000004
 Ke 0 0 0
 illum 1
-map_Kd ƒŒƒiƒXƒJ[ƒg17.bmp
+map_Kd 48_236_48_202_48_185_48_171_48_252_48_200_49_55.tga
 
 newmtl _n____3
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd Rª02_1.bmp
+map_Kd 92_113_104_57_48_50_95_49.tga
 
 newmtl __
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ’¬.bmp
+map_Kd 117_58.tga
 
 newmtl __
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ’¬.bmp
+map_Kd 117_58.tga
 
 newmtl __
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ’¬.bmp
+map_Kd 117_58.tga
 
 newmtl __
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ’¬.bmp
+map_Kd 117_58.tga
 

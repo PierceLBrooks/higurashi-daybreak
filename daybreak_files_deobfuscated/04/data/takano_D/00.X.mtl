@@ -6,89 +6,89 @@ Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0.749019623 0.639215708 0.427451015
 illum 1
-map_Kd 鷹野髪の毛.bmp
+map_Kd 157_249_145_206_154_234_48_110_107_219.tga
 
 newmtl Material__155_fuku_hadaSub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.913725555 0.749019623 0.678431392
 illum 1
-map_Kd 服.bmp
+map_Kd 103_13.tga
 
 newmtl Material__155_fuku_mainSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.53725493 0.46274513 0.752941251
 illum 1
-map_Kd 服.bmp
+map_Kd 103_13.tga
 
 newmtl Material__155_sukato_ashiSub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.913725555 0.749019623 0.678431392
 illum 1
-map_Kd スカート.bmp
+map_Kd 48_185_48_171_48_252_48_200.tga
 
 newmtl Material__155_sukato_mainSub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.541176498 0.466666698 0.752941251
 illum 1
-map_Kd スカート.bmp
+map_Kd 48_185_48_171_48_252_48_200.tga
 
 newmtl Material__155_sukato_kutuSub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.772549093 0.533333361 0.58431375
 illum 1
-map_Kd スカート.bmp
+map_Kd 48_185_48_171_48_252_48_200.tga
 
 newmtl Material__155_faceSub5
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0.913725555 0.749019623 0.678431392
 illum 1
-map_Kd 一顔.bmp
+map_Kd 78_0_152_84.tga
 
 newmtl Material__155_furiruSub6
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.505882382 0.662745118 0.874509871
 illum 1
-map_Kd フリル02.bmp
+map_Kd 48_213_48_234_48_235_48_50.tga
 
 newmtl Material__155_fuku_ribonSub7
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.752941251 0.596078455 0.454901993
 illum 1
-map_Kd 服.bmp
+map_Kd 103_13.tga
 
 newmtl Material__155_headSub8
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0.749019623 0.639215708 0.427451015
 illum 1
-map_Kd 鷹野髪の毛.bmp
+map_Kd 157_249_145_206_154_234_48_110_107_219.tga
 
 newmtl Material__156_sukato_mainSub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.541176498 0.466666698 0.752941251
 illum 1
-map_Kd スカート.bmp
+map_Kd 48_185_48_171_48_252_48_200.tga
 
 newmtl Material__156_furiruSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.505882382 0.662745118 0.874509871
 illum 1
-map_Kd フリル02.bmp
+map_Kd 48_213_48_234_48_235_48_50.tga
 
 newmtl m_eye
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0.603921592 0.760784388 1
 illum 1
-map_Kd 一目.bmp
+map_Kd 78_0_118_238.tga
 

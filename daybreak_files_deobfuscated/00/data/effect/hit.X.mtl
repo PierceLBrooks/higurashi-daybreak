@@ -6,12 +6,12 @@ Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd hit.bmp
+map_Kd 104_105_116.tga
 
 newmtl mat2
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd hit2.bmp
+map_Kd 104_105_116_50.tga
 

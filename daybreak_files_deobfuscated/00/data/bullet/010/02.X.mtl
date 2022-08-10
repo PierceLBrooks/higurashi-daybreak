@@ -6,14 +6,14 @@ Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd レーザー.bmp
+map_Kd 48_236_48_252_48_182_48_252.tga
 
 newmtl Material__35_mat1Sub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 縞レーザー2.bmp
+map_Kd 126_30_48_236_48_252_48_182_48_252_50.tga
 
 newmtl Material__35_mat3Sub2
 Kd 1 1 1
@@ -21,5 +21,5 @@ Ks 0 0 0
 Ke 0 0 0
 Ns 32
 illum 2
-map_Kd 弾丸ドーム衝撃波_00009.bmp
+map_Kd 95_62_78_56_48_201_48_252_48_224_136_93_100_131_108_226_95_48_48_48_48_57.tga
 

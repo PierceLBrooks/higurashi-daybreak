@@ -6,26 +6,26 @@ Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ZÉ‰e02.bmp
+map_Kd 104_33_130_14_95_113_48_50.tga
 
 newmtl mat3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ‰eâ01.bmp
+map_Kd 95_113_87_66_48_49.tga
 
 newmtl mat1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd shadow01.bmp
+map_Kd 115_104_97_100_111_119_48_49.tga
 
 newmtl _n___e03
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd è‚·‚è‰e.bmp
+map_Kd 98_75_48_89_48_138_95_113.tga
 

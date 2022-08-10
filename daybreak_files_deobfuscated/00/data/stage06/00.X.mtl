@@ -6,12 +6,12 @@ Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd kumo.bmp
+map_Kd 107_117_109_111.tga
 
 newmtl Material__310_____Sub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd â_è„01.bmp
+map_Kd 150_242_78_10_48_49.tga
 

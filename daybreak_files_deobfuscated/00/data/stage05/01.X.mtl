@@ -6,257 +6,257 @@ Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd floor007-1.bmp
+map_Kd 102_108_111_111_114_48_48_55_45_49.tga
 
 newmtl Material__354_1Sub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd floor001.bmp
+map_Kd 102_108_111_111_114_48_48_49.tga
 
 newmtl Material__354_007Sub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd floor007.bmp
+map_Kd 102_108_111_111_114_48_48_55.tga
 
 newmtl Material__354_mat19Sub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd floor007b.bmp
+map_Kd 102_108_111_111_114_48_48_55_98.tga
 
 newmtl Material__354_3Sub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd floor003.bmp
+map_Kd 102_108_111_111_114_48_48_51.tga
 
 newmtl Material__354_3-4Sub5
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd floor003-4.bmp
+map_Kd 102_108_111_111_114_48_48_51_45_52.tga
 
 newmtl Material__354_1-3Sub6
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd floor001-3.bmp
+map_Kd 102_108_111_111_114_48_48_49_45_51.tga
 
 newmtl Material__354_mat7Sub7
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd riverside.bmp
+map_Kd 114_105_118_101_114_115_105_100_101.tga
 
 newmtl Material__354_mat2Sub8
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 1-river.bmp
+map_Kd 49_45_114_105_118_101_114.tga
 
 newmtl Material__354_4bSub9
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd floor004b.bmp
+map_Kd 102_108_111_111_114_48_48_52_98.tga
 
 newmtl Material__354_4Sub10
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd floor004.bmp
+map_Kd 102_108_111_111_114_48_48_52.tga
 
 newmtl Material__354_mat20Sub11
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd floor001-8.bmp
+map_Kd 102_108_111_111_114_48_48_49_45_56.tga
 
 newmtl Material__354_roadB.psdSub12
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd roadB.bmp
+map_Kd 114_111_97_100_66.tga
 
 newmtl Material__354_mat6Sub13
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd river.bmp
+map_Kd 114_105_118_101_114.tga
 
 newmtl Material__354_mat1Sub14
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd floor001a.bmp
+map_Kd 102_108_111_111_114_48_48_49_97.tga
 
 newmtl Material__356_dust1Sub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust1.bmp
+map_Kd 100_117_115_116_49.tga
 
 newmtl Material__356____g_^____11.bmpSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd Âƒgƒ^ƒ“‚Ì11.bmp
+map_Kd 151_82_48_200_48_191_48_243_48_110_49_49.tga
 
 newmtl Material__356__g_^____03.bmpSub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ƒgƒ^ƒ“”Â03.bmp
+map_Kd 48_200_48_191_48_243_103_127_48_51.tga
 
 newmtl Material__356_dust4.psdSub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust4.bmp
+map_Kd 100_117_115_116_52.tga
 
 newmtl Material__356_mat16Sub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd plate03.bmp
+map_Kd 112_108_97_116_101_48_51.tga
 
 newmtl Material__356__h______.bmpSub5
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ƒhƒ‰ƒ€ŠÊ.bmp
+map_Kd 48_201_48_233_48_224_127_54.tga
 
 newmtl Material__356_mat15Sub6
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd plate02.bmp
+map_Kd 112_108_97_116_101_48_50.tga
 
 newmtl Material__356_dust5.psdSub7
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust5.bmp
+map_Kd 100_117_115_116_53.tga
 
 newmtl Material__356__h________02.bmpSub8
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ƒhƒ‰ƒ€ŠÊÔ02.bmp
+map_Kd 48_201_48_233_48_224_127_54_141_100_48_50.tga
 
 newmtl Material__356_dust6.psdSub9
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust6.bmp
+map_Kd 100_117_115_116_54.tga
 
 newmtl Material__357__h______.bmpSub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ƒhƒ‰ƒ€ŠÊ.bmp
+map_Kd 48_201_48_233_48_224_127_54.tga
 
 newmtl Material__357__h________02.bmpSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ƒhƒ‰ƒ€ŠÊÔ02.bmp
+map_Kd 48_201_48_233_48_224_127_54_141_100_48_50.tga
 
 newmtl Material__357_dust4.psdSub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust4.bmp
+map_Kd 100_117_115_116_52.tga
 
 newmtl Material__357____g_^____11.bmpSub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd Âƒgƒ^ƒ“‚Ì11.bmp
+map_Kd 151_82_48_200_48_191_48_243_48_110_49_49.tga
 
 newmtl Material__357_fLiftSub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd fklift.bmp
+map_Kd 102_107_108_105_102_116.tga
 
 newmtl Material__358__d____08.bmpSub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd “d’Œ–Ø08.bmp
+map_Kd 150_251_103_241_103_40_48_56.tga
 
 newmtl Material__358__d__01.bmpSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd “dü01.bmp
+map_Kd é›»ç·š01.bmp
 
 newmtl Material__358__d___L__02.bmpSub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd “d’ŒL02.bmp
+map_Kd é›»æŸ±åºƒå‘Š02.bmp
 
 newmtl Material__358_kanban02.psdSub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd kanban02.bmp
+map_Kd 107_97_110_98_97_110_48_50.tga
 
 newmtl Material__358_kanban01.psdSub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd kanban01.bmp
+map_Kd 107_97_110_98_97_110_48_49.tga
 
 newmtl _p_C____
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ƒpƒCƒƒ“.bmp
+map_Kd 48_209_48_164_48_237_48_243.tga
 
 newmtl _d____08.bmp
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd “d’Œ–Ø08.bmp
+map_Kd 150_251_103_241_103_40_48_56.tga
 

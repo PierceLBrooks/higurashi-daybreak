@@ -6,54 +6,54 @@ Kd 1 1 1
 Ks 0 0 0
 Ke 0.737254918 0.576470613 0.447058856
 illum 1
-map_Kd スカート.bmp
+map_Kd 48_185_48_171_48_252_48_200.tga
 
 newmtl Material__35_______Sub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.643137276 0.490196109 0.396078467
 illum 1
-map_Kd 服.bmp
+map_Kd 103_13.tga
 
 newmtl Material__35_______Sub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.913725555 0.749019623 0.678431392
 illum 1
-map_Kd 一顔.bmp
+map_Kd 78_0_152_84.tga
 
 newmtl Material__35______rSub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.913725555 0.749019623 0.678431392
 illum 1
-map_Kd 服.bmp
+map_Kd 103_13.tga
 
 newmtl Material__35___________Sub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.470588267 0.454901993 0.674509823
 illum 1
-map_Kd 大石髪の毛.bmp
+map_Kd 89_39_119_243_154_234_48_110_107_219.tga
 
 newmtl Material__35________vSub5
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.466666698 0.501960814 0.615686297
 illum 1
-map_Kd 服.bmp
+map_Kd 103_13.tga
 
 newmtl Material__35______CSub6
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.447058856 0.509803951 0.615686297
 illum 1
-map_Kd スカート.bmp
+map_Kd 48_185_48_171_48_252_48_200.tga
 
 newmtl ______
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.760784388 0.839215755 1
 illum 1
-map_Kd 一目.bmp
+map_Kd 78_0_118_238.tga
 

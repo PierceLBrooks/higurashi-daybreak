@@ -6,7 +6,7 @@ Kd 1 1 1
 Ks 0 0 0
 Ke 1 1 1
 illum 1
-map_Kd “d‰e’e.bmp
+map_Kd 150_251_95_113_95_62.tga
 
 newmtl mat2
 Kd 1 1 1
@@ -14,5 +14,5 @@ Ks 0 0 0
 Ke 1 1 1
 Ns 32
 illum 2
-map_Kd “d‰e’e2.bmp
+map_Kd 150_251_95_113_95_62_50.tga
 

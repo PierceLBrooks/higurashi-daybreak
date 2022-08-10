@@ -6,278 +6,278 @@ Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd アスファルト中間09.bmp
+map_Kd 48_162_48_185_48_213_48_161_48_235_48_200_78_45_149_147_48_57.tga
 
 newmtl Material__2508_02Sub1
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 石垣その２01.bmp
+map_Kd 119_243_87_163_48_93_48_110_255_18_48_49.tga
 
 newmtl Material__2508_kusamuraSub2
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd くさむら06.bmp
+map_Kd 48_79_48_85_48_128_48_137_48_54.tga
 
 newmtl Material__2508_kusamura_tyuukanSub3
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd くさむら中間02.bmp
+map_Kd 48_79_48_85_48_128_48_137_78_45_149_147_48_50.tga
 
 newmtl Material__2508_03Sub4
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 校庭芝08.bmp
+map_Kd 104_33_94_173_130_157_48_56.tga
 
 newmtl Material__2508_kouteiSub5
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 校庭砂05.bmp
+map_Kd 104_33_94_173_120_2_48_53.tga
 
 newmtl Material__2508_siba_tyukanSub6
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 校庭芝生中間9.bmp
+map_Kd 104_33_94_173_130_157_117_31_78_45_149_147_57.tga
 
 newmtl Material__2508_koutei_kusaSub7
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 校庭砂草小02.bmp
+map_Kd 104_33_94_173_120_2_131_73_92_15_48_50.tga
 
 newmtl Material__2508_14Sub8
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd アスファルト05.bmp
+map_Kd 48_162_48_185_48_213_48_161_48_235_48_200_48_53.tga
 
 newmtl Material__2508_40Sub9
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 石段07.bmp
+map_Kd 119_243_107_181_48_55.tga
 
 newmtl Material__2508_26Sub10
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 石垣小11.bmp
+map_Kd 119_243_87_163_92_15_49_49.tga
 
 newmtl Material__2508_isidan_kusaSub11
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 石段草01.bmp
+map_Kd 119_243_107_181_131_73_48_49.tga
 
 newmtl Material__2508_49Sub12
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 石壁上06.bmp
+map_Kd 119_243_88_193_78_10_48_54.tga
 
 newmtl Material__2508_48Sub13
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 岩壁04テスト.bmp
+map_Kd 92_169_88_193_48_52_48_198_48_185_48_200.tga
 
 newmtl Material__2508_50Sub14
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 石壁上ｂ04.bmp
+map_Kd 119_243_88_193_78_10_255_66_48_52.tga
 
 newmtl yama
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 山草近景01.bmp
+map_Kd 92_113_131_73_143_209_102_111_48_49.tga
 
 newmtl Material__2511_21Sub0
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd ガードレール03.bmp
+map_Kd 48_172_48_252_48_201_48_236_48_252_48_235_48_51.tga
 
 newmtl Material__2511_39Sub1
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd マンホール10.bmp
+map_Kd 48_222_48_243_48_219_48_252_48_235_49_48.tga
 
 newmtl Material__2511_28Sub2
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd マンホール大01.bmp
+map_Kd 48_222_48_243_48_219_48_252_48_235_89_39_48_49.tga
 
 newmtl Material__2511_dentyuSub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 電柱木08.bmp
+map_Kd 150_251_103_241_103_40_48_56.tga
 
 newmtl Material__2511_dentyu02Sub4
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 電柱広告02.bmp
+map_Kd 150_251_103_241_94_131_84_74_48_50.tga
 
 newmtl Material__2511_kyatatuSub5
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 脚立09.bmp
+map_Kd 129_26_122_203_48_57.tga
 
 newmtl Material__2511_25Sub6
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 柵標識3.bmp
+map_Kd 103_245_106_25_139_88_51.tga
 
 newmtl Material__2511_densenSub7
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd 電線01.bmp
+map_Kd 150_251_125_218_48_49.tga
 
 newmtl Material__2518_blockSub0
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd ﾌﾞﾛｯｸ04.bmp
+map_Kd 255_140_255_158_255_155_255_111_255_120_48_52.tga
 
 newmtl Material__2518_37Sub1
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd パンジー03.bmp
+map_Kd 48_209_48_243_48_184_48_252_48_51.tga
 
 newmtl Material__2518_kyatatuSub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 脚立09.bmp
+map_Kd 129_26_122_203_48_57.tga
 
 newmtl Material__2518_29Sub3
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 上葉っぱ03.bmp
+map_Kd 78_10_132_73_48_99_48_113_48_51.tga
 
 newmtl Material__2526_67Sub0
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 瓦09.bmp
+map_Kd 116_230_48_57.tga
 
 newmtl Material__2526_____12Sub1
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 民家12.bmp
+map_Kd 108_17_91_182_49_50.tga
 
 newmtl Material__2526_69Sub2
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd トタン板03.bmp
+map_Kd 48_200_48_191_48_243_103_127_48_51.tga
 
 newmtl Material__2526_08Sub3
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 小屋板B04.bmp
+map_Kd 92_15_92_75_103_127_66_48_52.tga
 
 newmtl Material__2526_06Sub4
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 小屋板04.bmp
+map_Kd 92_15_92_75_103_127_48_52.tga
 
 newmtl Material__2526_mat4Sub5
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd 民家平屋05.bmp
+map_Kd 108_17_91_182_94_115_92_75_48_53.tga
 
 newmtl Material__2526_minka_02Sub6
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd 民家平屋s01.bmp
+map_Kd 108_17_91_182_94_115_92_75_115_48_49.tga
 
 newmtl Material__2526__g_^______Sub7
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd トタン.bmp
+map_Kd 48_200_48_191_48_243.tga
 
 newmtl Material__2526______[Sub8
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 窓ロー.bmp
+map_Kd 122_147_48_237_48_252.tga
 
 newmtl Material__2526_07Sub9
 Kd 1 1 1
 Ks 0.0375000015 0.0375000015 0.0375000015
 Ke 0 0 0
 illum 1
-map_Kd 小屋板パーツ19.bmp
+map_Kd 92_15_92_75_103_127_48_209_48_252_48_196_49_57.tga
 
 newmtl Material__2526_minka_03Sub10
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd 民家平屋03.bmp
+map_Kd 108_17_91_182_94_115_92_75_48_51.tga
 
 newmtl Material__2526__g_^__Sub11
 Kd 1 1 1
 Ks 0.0500000007 0.0500000007 0.0500000007
 Ke 0 0 0
 illum 1
-map_Kd トタン.bmp
+map_Kd 48_200_48_191_48_243.tga
 

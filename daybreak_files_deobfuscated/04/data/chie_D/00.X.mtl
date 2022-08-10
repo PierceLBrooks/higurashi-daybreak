@@ -6,47 +6,47 @@ Kd 1 1 1
 Ks 0 0 0
 Ke 0.529411793 0.490196109 0.78039223
 illum 1
-map_Kd 知恵髪の毛.bmp
+map_Kd 119_229_96_117_154_234_48_110_107_219.tga
 
 newmtl Material__112_fuku_hadaSub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.913725555 0.749019623 0.678431392
 illum 1
-map_Kd 服.bmp
+map_Kd 103_13.tga
 
 newmtl Material__112_fuku_mainSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.470588267 0.627451003 0.862745166
 illum 1
-map_Kd 服.bmp
+map_Kd 103_13.tga
 
 newmtl Material__112_sukato_ashiSub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.913725555 0.749019623 0.678431392
 illum 1
-map_Kd スカート.bmp
+map_Kd 48_185_48_171_48_252_48_200.tga
 
 newmtl Material__112_faceSub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.913725555 0.749019623 0.678431392
 illum 1
-map_Kd 一顔.bmp
+map_Kd 78_0_152_84.tga
 
 newmtl Material__112_headSub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.529411793 0.490196109 0.78039223
 illum 1
-map_Kd 知恵髪の毛.bmp
+map_Kd 119_229_96_117_154_234_48_110_107_219.tga
 
 newmtl eye
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.647058845 0.847058892 1
 illum 1
-map_Kd 一目.bmp
+map_Kd 78_0_118_238.tga
 

@@ -6,187 +6,187 @@ Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust1.bmp
+map_Kd 100_117_115_116_49.tga
 
 newmtl Material__360_mat15Sub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd plate02.bmp
+map_Kd 112_108_97_116_101_48_50.tga
 
 newmtl Material__360_mat16Sub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd plate03.bmp
+map_Kd 112_108_97_116_101_48_51.tga
 
 newmtl Material__360_dust4.psdSub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust4.bmp
+map_Kd 100_117_115_116_52.tga
 
 newmtl Material__360_dust6.psdSub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust6.bmp
+map_Kd 100_117_115_116_54.tga
 
 newmtl Material__360_dust5.psdSub5
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust5.bmp
+map_Kd 100_117_115_116_53.tga
 
 newmtl Material__360_mat14Sub6
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd plate01.bmp
+map_Kd 112_108_97_116_101_48_49.tga
 
 newmtl Material__360____g_^____11.bmpSub7
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 青トタンの11.bmp
+map_Kd 151_82_48_200_48_191_48_243_48_110_49_49.tga
 
 newmtl Material__360__h________02.bmpSub8
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ドラム缶赤02.bmp
+map_Kd 48_201_48_233_48_224_127_54_141_100_48_50.tga
 
 newmtl Material__360__h______.bmpSub9
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ドラム缶.bmp
+map_Kd 48_201_48_233_48_224_127_54.tga
 
 newmtl Material__360__g_^____03.bmpSub10
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd トタン板03.bmp
+map_Kd 48_200_48_191_48_243_103_127_48_51.tga
 
 newmtl Material__360__I__Sub11
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 白棚01.bmp
+map_Kd 118_125_104_218_48_49.tga
 
 newmtl Material__360__e___rSub12
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd テレビ02.bmp
+map_Kd 48_198_48_236_48_211_48_50.tga
 
 newmtl Material__360_fLiftSub13
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd fklift.bmp
+map_Kd 102_107_108_105_102_116.tga
 
 newmtl Material__360_ka-neru_fukuSub14
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd カーネル01.bmp
+map_Kd 48_171_48_252_48_205_48_235_48_49.tga
 
 newmtl Material__363_dust4.psdSub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust4.bmp
+map_Kd 100_117_115_116_52.tga
 
 newmtl Material__363____g_^____11.bmpSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 青トタンの11.bmp
+map_Kd 151_82_48_200_48_191_48_243_48_110_49_49.tga
 
 newmtl Material__384__h________02.bmpSub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ドラム缶赤02.bmp
+map_Kd 48_201_48_233_48_224_127_54_141_100_48_50.tga
 
 newmtl Material__384_dust4.psdSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust4.bmp
+map_Kd 100_117_115_116_52.tga
 
 newmtl Material__384____g_^____11.bmpSub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 青トタンの11.bmp
+map_Kd 151_82_48_200_48_191_48_243_48_110_49_49.tga
 
 newmtl Material__385_dust4.psdSub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust4.bmp
+map_Kd 100_117_115_116_52.tga
 
 newmtl Material__385____g_^____11.bmpSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 青トタンの11.bmp
+map_Kd 151_82_48_200_48_191_48_243_48_110_49_49.tga
 
 newmtl Material__396_mat16Sub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd plate03.bmp
+map_Kd 112_108_97_116_101_48_51.tga
 
 newmtl Material__396__h______.bmpSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ドラム缶.bmp
+map_Kd 48_201_48_233_48_224_127_54.tga
 
 newmtl Material__396__h________02.bmpSub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd ドラム缶赤02.bmp
+map_Kd 48_201_48_233_48_224_127_54_141_100_48_50.tga
 
 newmtl Material__396_dust4.psdSub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd dust4.bmp
+map_Kd 100_117_115_116_52.tga
 
 newmtl Material__396____g_^____11.bmpSub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 青トタンの11.bmp
+map_Kd 151_82_48_200_48_191_48_243_48_110_49_49.tga
 

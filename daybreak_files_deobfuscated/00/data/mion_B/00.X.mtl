@@ -6,75 +6,75 @@ Kd 1 1 1
 Ks 0 0 0
 Ke 0.313725501 0.666666687 0.509803951
 illum 1
-map_Kd 魅音髪の毛05.bmp
+map_Kd 155_69_151_243_154_234_48_110_107_219_48_53.tga
 
 newmtl Material__155_fuku_syatuSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.776470661 0.568627477 0.454901993
 illum 1
-map_Kd 服.bmp
+map_Kd 103_13.tga
 
 newmtl Material__156_sukatoSub0
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.509803951 0.600000024 0.788235366
 illum 1
-map_Kd スカート.bmp
+map_Kd 48_185_48_171_48_252_48_200.tga
 
 newmtl Material__156_fuku_syatuSub1
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.776470661 0.568627477 0.454901993
 illum 1
-map_Kd 服.bmp
+map_Kd 103_13.tga
 
 newmtl Material__156_fuku_kubiSub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.411764741 0.498039246 0.643137276
 illum 1
-map_Kd 服.bmp
+map_Kd 103_13.tga
 
 newmtl Material__156_kutuSub3
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.713725507 0.509803951 0.431372583
 illum 1
-map_Kd スカート.bmp
+map_Kd 48_185_48_171_48_252_48_200.tga
 
 newmtl Material__156_udeSub4
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.913725555 0.749019623 0.678431392
 illum 1
-map_Kd 服.bmp
+map_Kd 103_13.tga
 
 newmtl Material__156_faceSub5
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.913725555 0.749019623 0.678431392
 illum 1
-map_Kd 一顔.bmp
+map_Kd 78_0_152_84.tga
 
 newmtl Material__156_headSub6
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.313725501 0.666666687 0.509803951
 illum 1
-map_Kd 魅音髪の毛05.bmp
+map_Kd 155_69_151_243_154_234_48_110_107_219_48_53.tga
 
 newmtl eye
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.760784388 0.854902029 1
 illum 1
-map_Kd 一目.bmp
+map_Kd 78_0_118_238.tga
 
 newmtl uwagi
 Kd 1 1 1
 Ks 0 0 0
 Ke 0.580392182 0.670588255 0.823529482
 illum 1
-map_Kd スカート.bmp
+map_Kd 48_185_48_171_48_252_48_200.tga
 

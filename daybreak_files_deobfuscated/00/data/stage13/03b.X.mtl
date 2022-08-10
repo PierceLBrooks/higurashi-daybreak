@@ -6,19 +6,19 @@ Kd 1 1 1
 Ks 0.049999997 0.049999997 0.049999997
 Ke 0 0 0
 illum 1
-map_Kd 草境目α付き.bmp
+map_Kd 131_73_88_131_118_238_59_1_78_216_48_77.tga
 
 newmtl Material__4141__n___t____Sub1
 Kd 1 1 1
 Ks 0.049999997 0.049999997 0.049999997
 Ke 0 0 0
 illum 1
-map_Kd 地面葉っぱ01.bmp
+map_Kd 87_48_151_98_132_73_48_99_48_113_48_49.tga
 
 newmtl Material__4141_____Sub2
 Kd 1 1 1
 Ks 0 0 0
 Ke 0 0 0
 illum 1
-map_Kd 地面砂利.bmp
+map_Kd 87_48_151_98_120_2_82_41.tga
 
