@@ -1,0 +1,395 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__4276__zSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 幕.bmp
+
+newmtl Material__4276__{______Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体屋根.bmp
+
+newmtl Material__4276________lSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 神社模様.bmp
+
+newmtl Material__4276__{_____C__Sub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体メイン.bmp
+
+newmtl Material__4276_____Sub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 白壁.bmp
+
+newmtl Material__4276__{____2Sub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体石2.bmp
+
+newmtl Material__4276__{____Sub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体扉.bmp
+
+newmtl Material__4276_____3Sub7
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 白壁3.bmp
+
+newmtl Material__4276__{___K_i__Sub8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体階段柱.bmp
+
+newmtl Material__4276__{____2lineSub9
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体石2line.bmp
+
+newmtl Material__4276__{____1Sub10
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体石1.bmp
+
+newmtl Material__4276__n____3Sub11
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 地面石3.bmp
+
+newmtl Material__4276__{___K_i__Sub12
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体階段石m.bmp
+
+newmtl Material__4276________l_QSub13
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 神社模様２.bmp
+
+newmtl Material__4267_____1bSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居1b.bmp
+
+newmtl Material__4267_________Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居1a.bmp
+
+newmtl Material__4268__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__4268__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__4268_____1bSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居1b.bmp
+
+newmtl Material__4268_________Sub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居1a.bmp
+
+newmtl Material__4269_________Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 外賽銭箱屋根.bmp
+
+newmtl Material__4269__O___K__1aSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 外賽銭箱1a.bmp
+
+newmtl Material__4271_________Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 外賽銭箱屋根.bmp
+
+newmtl Material__4271__O___K__1aSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 外賽銭箱1a.bmp
+
+newmtl Material__4271_________Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居1a.bmp
+
+newmtl Material__4271____PSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 石1.bmp
+
+newmtl Material__4271______PSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 石水1.bmp
+
+newmtl Material__4271__n____Sub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 床大岩.bmp
+
+newmtl Material__4289__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__4289__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__4289____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__4328_dentyuSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 電柱木08.bmp
+
+newmtl Material__4328_______Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 壁板.bmp
+
+newmtl Material__4328_66Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd プレハブ壁05.bmp
+
+newmtl Material__4328__{____2Sub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体石2.bmp
+
+newmtl Material__4328_67Sub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 集会所瓦.bmp
+
+newmtl Material__4328_09Sub5
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd サッシ01.bmp
+
+newmtl Material__4328_68Sub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ドア02.bmp
+
+newmtl Material__4328__________[_v2.bmpSub7
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__4328__{_____C__Sub8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体メインB.bmp
+
+newmtl Material__4328__{____Sub9
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体扉.bmp
+
+newmtl Material__4328_____Sub10
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 白壁.bmp
+
+newmtl Material__4328________lSub11
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 神社模様.bmp
+
+newmtl Material__4328_kyatatuSub12
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 脚立09.bmp
+
+newmtl Material__4328__g_^______Sub13
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 神社トタン.bmp
+
+newmtl Material__4328__{______Sub14
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体屋根.bmp
+
+newmtl Material__4328____o_P_cSub15
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 神社ドラム缶.bmp
+
+newmtl Material__4328_35Sub16
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 水飲み場小0.bmp
+
+newmtl Material__4328_34Sub17
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 蛇口02.bmp
+
+newmtl Material__4329_________Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 外賽銭箱屋根.bmp
+
+newmtl Material__4329______USub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 赤灯篭.bmp
+
+newmtl Material__4329____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__4330____U__Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭大.bmp
+
+newmtl Material__4330__________[_v2.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__4330____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl dentyu
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 電柱木08.bmp
+

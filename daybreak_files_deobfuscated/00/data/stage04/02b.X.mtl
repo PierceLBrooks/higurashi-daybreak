@@ -1,0 +1,157 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__2739_mat2Sub0
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 地面葉っぱのコピー.bmp
+
+newmtl Material__2739_kusa_01Sub1
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 草03.bmp
+
+newmtl Material__2739_kusa_02Sub2
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 雑草01.bmp
+
+newmtl Material__2739__V__Sub3
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd シダ01.bmp
+
+newmtl Material__2739______`Sub4
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 茂み上01.bmp
+
+newmtl Material__2739_60Sub5
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 広葉樹02.bmp
+
+newmtl Material__2739_happa_syutyuSub6
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 葉っぱ集中.bmp
+
+newmtl Material__2739____t____Sub7
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 上葉っぱ03.bmp
+
+newmtl Material__2739____tSub8
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 枯れ木葉っぱ.bmp
+
+newmtl Material__2739__n___t____Sub9
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 地面葉っぱ01.bmp
+
+newmtl Material__2739__L_t__Sub10
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 広葉樹02.bmp
+
+newmtl Material__2739____t____Sub11
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 蕗葉っぱ.bmp
+
+newmtl Material__2739____sSub12
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 蕗茎.bmp
+
+newmtl Material__2742__X__05Sub0
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 森林05.bmp
+
+newmtl Material__2742__X__04Sub1
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 森林04.bmp
+
+newmtl Material__2742__X__03Sub2
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 森林03.bmp
+
+newmtl Material__2742__X__06Sub3
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 森林06.bmp
+
+newmtl Material__2742__X__02Sub4
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 森林02.bmp
+
+newmtl _X__03
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 森林03.bmp
+
+newmtl Material__2743__tSub0
+Kd 1 1 1
+Ks 0.049999997 0.049999997 0.049999997
+Ke 0 0 0
+illum 1
+map_Kd 葉っぱ小01.bmp
+
+newmtl Material__2743___Sub1
+Kd 1 1 1
+Ks 0.049999997 0.049999997 0.049999997
+Ke 0 0 0
+illum 1
+map_Kd 幹白.bmp
+
+newmtl _n___t____
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 地面葉っぱ01.bmp
+

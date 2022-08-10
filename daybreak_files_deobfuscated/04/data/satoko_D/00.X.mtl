@@ -1,0 +1,66 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__210_sbandSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.525490224 0.525490224 0.525490224
+illum 1
+map_Kd 沙都子髪の毛04.bmp
+
+newmtl Material__210_sheadSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.784313798 0.666666687 0.498039246
+illum 1
+map_Kd 沙都子髪の毛04.bmp
+
+newmtl Material__211_fuku_hadaSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 服.bmp
+
+newmtl Material__211_fuku_mainSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.541176498 0.454901993 0.756862819
+illum 1
+map_Kd 服.bmp
+
+newmtl Material__211_sukato_ashiSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__211_sfaceSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 一顔.bmp
+
+newmtl Material__211_sandaruSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.454901993 0.588235319 0.741176486
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__211_sheadSub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.784313798 0.666666687 0.498039246
+illum 1
+map_Kd 沙都子髪の毛04.bmp
+
+newmtl seye
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.65882355 0.82745105 1
+illum 1
+map_Kd 一目.bmp
+

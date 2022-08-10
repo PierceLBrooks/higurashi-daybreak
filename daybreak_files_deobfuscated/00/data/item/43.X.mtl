@@ -1,0 +1,10 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl M870
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.678431392 0.588235319 0.552941203
+illum 1
+map_Kd M87013.bmp
+

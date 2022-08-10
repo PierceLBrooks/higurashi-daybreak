@@ -1,0 +1,122 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__3450_______Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木の皮.bmp
+
+newmtl Material__3450________tSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 枯れ木葉っぱ.bmp
+
+newmtl Material__3451_treeB02Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 真木大01.bmp
+
+newmtl Material__3451_____Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__3452_____Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__3452_treeA03Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 真木大01.bmp
+
+newmtl Material__3453_______Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木の皮.bmp
+
+newmtl Material__3453________tSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 枯れ木葉っぱ.bmp
+
+newmtl Material__3454_treeB02Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 真木大01.bmp
+
+newmtl Material__3454_____Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__3455_____Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__3455_treeA03Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 真木大01.bmp
+
+newmtl Material__3456_treeB02Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 真木大01.bmp
+
+newmtl Material__3456_____Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__3457_____Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__3457_treeA03Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 真木大01.bmp
+
+newmtl ________
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 草境目α付き.bmp
+

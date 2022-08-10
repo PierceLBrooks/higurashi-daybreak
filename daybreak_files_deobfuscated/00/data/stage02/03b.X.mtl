@@ -1,0 +1,38 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl ________
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 草境目α付き.bmp
+
+newmtl Material__3460_tutaASub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 葉っぱ地面02.bmp
+
+newmtl Material__3460_tutaBSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 蔦05.bmp
+
+newmtl Material__3460_tutaDSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 地面クローバー03.bmp
+
+newmtl Material__3460_tutaCSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 蔓09.bmp
+

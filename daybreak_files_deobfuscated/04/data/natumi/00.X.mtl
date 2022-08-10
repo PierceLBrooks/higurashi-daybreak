@@ -1,0 +1,94 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__56_fukuSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.745098054 0.627451003
+illum 1
+map_Kd 服.bmp
+
+newmtl Material__56_eriSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.745098054 0.470588267 0.431372583
+illum 1
+map_Kd 服.bmp
+
+newmtl Material__56_faceSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 一顔.bmp
+
+newmtl Material__56_ashiSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__56_sukatoSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.745098054 0.627451003
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__56_kutusitaSub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.745098054 0.627451003
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__56_udeSub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 服.bmp
+
+newmtl Material__56_kutuSub7
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.611764729 0.498039246 0.447058856
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__56_hairSub8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.384313762 0.694117665 0.48627454
+illum 1
+map_Kd 夏美髪の毛.bmp
+
+newmtl eye
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.48627454 0.784313798 0.972549081
+illum 1
+map_Kd 一目.bmp
+
+newmtl hair
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.384313762 0.694117665 0.48627454
+illum 1
+map_Kd 夏美髪の毛.bmp
+
+newmtl Material__68_sukatoSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.745098054 0.627451003
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__68_sukato_2Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.745098054 0.470588267 0.431372583
+illum 1
+map_Kd スカート.bmp
+

@@ -1,0 +1,25 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__35_mat2Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd レーザー.bmp
+
+newmtl Material__35_mat1Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 縞レーザー2.bmp
+
+newmtl Material__35_mat3Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 32
+illum 2
+map_Kd 弾丸ドーム衝撃波_00009.bmp
+

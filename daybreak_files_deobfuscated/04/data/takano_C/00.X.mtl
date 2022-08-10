@@ -1,0 +1,101 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl head
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.764705956 0.647058845 0.466666698
+illum 1
+map_Kd 鷹野髪の毛.bmp
+
+newmtl Material__134_faceSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 一顔.bmp
+
+newmtl Material__134_headSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.764705956 0.647058845 0.466666698
+illum 1
+map_Kd 鷹野髪の毛.bmp
+
+newmtl Material__134_fukuSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.431372583 0.392156899 0.392156899
+illum 1
+map_Kd 服.bmp
+
+newmtl Material__134_ashiSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__134_kutu_ashiSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.431372583 0.392156899 0.392156899
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__134_udeSub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 服.bmp
+
+newmtl Material__134_kutuSub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.46274513 0.46274513 0.529411793
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__134_ribonSub7
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.607843161 0.749019623 0.490196109
+illum 1
+map_Kd スカート.bmp
+
+newmtl m_eye
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.611764729 0.776470661 1
+illum 1
+map_Kd 一目.bmp
+
+newmtl ashi
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd スカート.bmp
+
+newmtl ashi
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd スカート.bmp
+
+newmtl fuku
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.431372583 0.392156899 0.392156899
+illum 1
+map_Kd 服.bmp
+
+newmtl ribon
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.607843161 0.749019623 0.490196109
+illum 1
+map_Kd スカート.bmp
+

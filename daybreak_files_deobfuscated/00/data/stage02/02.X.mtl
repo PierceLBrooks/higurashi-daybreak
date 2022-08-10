@@ -1,0 +1,213 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl ________
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 草境目α付き.bmp
+
+newmtl Material__3458_TreeE04Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 丸木省エネ01.bmp
+
+newmtl Material__3458_TreeE02Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木省エネ02.bmp
+
+newmtl Material__3458_TreeE01Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木省エネ01.bmp
+
+newmtl Material__3458_TreeE03Sub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木省エネ03.bmp
+
+newmtl Material__3458______G_l__02Sub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木省エネ大02.bmp
+
+newmtl Material__3458______G_l__Sub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木省エネ大01.bmp
+
+newmtl Material__3458__X__02Sub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 森林02.bmp
+
+newmtl Material__3458__X__06Sub7
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 森林06.bmp
+
+newmtl Material__3458______G_l__Sub8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木省エネ小01.bmp
+
+newmtl Material__3458__X__03Sub9
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 森林03.bmp
+
+newmtl Material__3458__X__05Sub10
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 森林05.bmp
+
+newmtl Material__3458__X__04Sub11
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 森林04.bmp
+
+newmtl Material__3458__L_t__Sub12
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 広葉樹02.bmp
+
+newmtl Material__3459____t____Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 上葉っぱ03.bmp
+
+newmtl Material__3459_____Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 草上02.bmp
+
+newmtl Material__3459________tSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 枯れ木葉っぱ.bmp
+
+newmtl Material__3459_kusa_01Sub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 草03.bmp
+
+newmtl Material__3459_kusa_02Sub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 雑草01.bmp
+
+newmtl Material__3459_29Sub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 上葉っぱ03.bmp
+
+newmtl Material__3459__n___t____Sub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 地面葉っぱのコピー.bmp
+
+newmtl Material__3459__L_t__Sub7
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 広葉樹02.bmp
+
+newmtl Material__3459______`Sub8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 茂み上01.bmp
+
+newmtl Material__3459_37Sub9
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd パンジー03.bmp
+
+newmtl Material__3460_tutaASub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 葉っぱ地面02.bmp
+
+newmtl Material__3460_tutaBSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 蔦05.bmp
+
+newmtl Material__3460_tutaDSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 地面クローバー03.bmp
+
+newmtl Material__3460_tutaCSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 蔓09.bmp
+
+newmtl Material__3461_______Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木の皮.bmp
+
+newmtl Material__3461__X__04Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 森林04.bmp
+

@@ -1,0 +1,297 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__3439_03Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 校庭芝08.bmp
+
+newmtl Material__3439____i__Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 石段小01.bmp
+
+newmtl Material__3439__A_X_t_@___g____Sub2
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd アスファルト中間村09.bmp
+
+newmtl Material__3439_14Sub3
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd アスファルト05.bmp
+
+newmtl Material__3439__Z________Sub4
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 校庭芝生中間9.bmp
+
+newmtl Material__3439__Z____Sub5
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 校庭砂05.bmp
+
+newmtl Material__3439____[Sub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 畑端.bmp
+
+newmtl Material__3439_yamaSub7
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 山草近景01.bmp
+
+newmtl Material__3439__R____Sub8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 山中間02.bmp
+
+newmtl Material__3439___Sub9
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 畑.bmp
+
+newmtl Material__3439__h_u__Sub10
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ドブ板.bmp
+
+newmtl Material__3440__________Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ﾌﾞﾛｯｸ塀斜め.bmp
+
+newmtl Material__3440__A_X_t_@___g____Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd アスファルト中間村09.bmp
+
+newmtl Material__3441_yamaSub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 山草近景01.bmp
+
+newmtl Material__3441__R01Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 山根01.bmp
+
+newmtl Material__3441____i__Sub2
+Kd 1 1 1
+Ks 0.00699999975 0.00699999975 0.00699999975
+Ke 0 0 0
+illum 1
+map_Kd 石段上.bmp
+
+newmtl Material__3441____i__03Sub3
+Kd 1 1 1
+Ks 0.00699999975 0.00699999975 0.00699999975
+Ke 0 0 0
+illum 1
+map_Kd 石段上03.bmp
+
+newmtl Material__3441____i__02Sub4
+Kd 1 1 1
+Ks 0.00699999975 0.00699999975 0.00699999975
+Ke 0 0 0
+illum 1
+map_Kd 石段上02.bmp
+
+newmtl Material__3441__R02Sub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 山根02.bmp
+
+newmtl Material__3442__c__Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 田圃.bmp
+
+newmtl Material__3442_03Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 校庭芝08.bmp
+
+newmtl Material__3442__c_____iSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 田園遠景.bmp
+
+newmtl Material__3443_minka_03Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 民家平屋01.bmp
+
+newmtl Material__3443_minka_02Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 民家平屋03.bmp
+
+newmtl Material__3443_____12Sub2
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 民家12.bmp
+
+newmtl Material__3443_mat4Sub3
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 民家平屋05.bmp
+
+newmtl Material__3443__m____Sub4
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 藁葺き屋根.bmp
+
+newmtl Material__3443___Sub5
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 瓦12.bmp
+
+newmtl Material__3443_mat3Sub6
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 民家大壁.bmp
+
+newmtl Material__3443____g_^____Sub7
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd トタン板03.bmp
+
+newmtl Material__3443__g_^______Sub8
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd トタン.bmp
+
+newmtl Material__3444_doramukanSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ドラム缶.bmp
+
+newmtl Material__3444_doramukan_akaSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ドラム缶赤02.bmp
+
+newmtl Material__3444_kyatatuSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 脚立09.bmp
+
+newmtl Material__3444____[Sub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 畑端.bmp
+
+newmtl Material__3444_35Sub4
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 水飲み場小0.bmp
+
+newmtl Material__3444_34Sub5
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 蛇口02.bmp
+
+newmtl Material__3444__p_C____Sub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd パイロン.bmp
+
+newmtl _h_u__
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ドブ板.bmp
+
+newmtl dentyu
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 電柱木08.bmp
+
+newmtl densen
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 電線01.bmp
+
+newmtl minka_02
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 民家平屋03.bmp
+

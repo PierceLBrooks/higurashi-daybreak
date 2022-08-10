@@ -1,0 +1,163 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__194__{______Sub0
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体屋根.bmp
+
+newmtl Material__194________lSub1
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 神社模様.bmp
+
+newmtl Material__194__{_____C__Sub2
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体メイン.bmp
+
+newmtl Material__194_____Sub3
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 白壁.bmp
+
+newmtl Material__194__{____2Sub4
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体石2.bmp
+
+newmtl Material__194__{____Sub5
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体扉.bmp
+
+newmtl Material__194_____3Sub6
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 白壁3.bmp
+
+newmtl Material__194__{___K_i__Sub7
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体階段柱.bmp
+
+newmtl Material__194__{____2lineSub8
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体石2line.bmp
+
+newmtl Material__194__{____1Sub9
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体石1.bmp
+
+newmtl Material__194__n____3Sub10
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 山根02_1.bmp
+
+newmtl Material__194__{___K_i__Sub11
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体階段石m.bmp
+
+newmtl Material__194__zSub12
+Kd 0.0780000016 0.101999998 0.203999996
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+
+newmtl Material__194________l_QSub13
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 神社模様２.bmp
+
+newmtl Material__195_seifuku_fukuSub0
+Kd 1 1 1
+Ks 0.0250000004 0.0250000004 0.0250000004
+Ke 0 0 0
+illum 1
+map_Kd renafuku7.bmp
+
+newmtl Material__195_seifuku_faceSub1
+Kd 1 1 1
+Ks 0.0250000004 0.0250000004 0.0250000004
+Ke 0 0 0
+illum 1
+map_Kd renaface18.bmp
+
+newmtl Material__195_seifuku_headSub2
+Kd 1 1 1
+Ks 0.0250000004 0.0250000004 0.0250000004
+Ke 0 0 0
+illum 1
+map_Kd レナ髪の毛16.bmp
+
+newmtl Material__195_seifuku_sukatoSub3
+Kd 1 1 1
+Ks 0.0250000004 0.0250000004 0.0250000004
+Ke 0 0 0
+illum 1
+map_Kd レナスカート17.bmp
+
+newmtl _n____3
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 山根02_1.bmp
+
+newmtl __
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 町.bmp
+
+newmtl __
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 町.bmp
+
+newmtl __
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 町.bmp
+
+newmtl __
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 町.bmp
+

@@ -1,0 +1,27 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl mat1
+Kd 1 1 1
+Ks 0 0 0
+Ke 1 1 1
+Ns 0.319999993
+illum 2
+map_Kd 炎上オーラ.bmp
+
+newmtl mat1
+Kd 1 1 1
+Ks 0 0 0
+Ke 1 1 1
+Ns 0.319999993
+illum 2
+map_Kd 炎上オーラ.bmp
+
+newmtl mat1
+Kd 1 1 1
+Ks 0 0 0
+Ke 1 1 1
+Ns 0.319999993
+illum 2
+map_Kd 炎上オーラ.bmp
+

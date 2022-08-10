@@ -1,0 +1,73 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__355__X__05Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd X—Ñ05.bmp
+
+newmtl Material__355__X__03Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd X—Ñ03.bmp
+
+newmtl Material__355__X__04Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd X—Ñ04.bmp
+
+newmtl Material__359_treeB02Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ^–Ø‘å01.bmp
+
+newmtl Material__359_12Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd –Î‚İã01.bmp
+
+newmtl Material__359_treeA01Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd –ØÅVŠ²04.bmp
+
+newmtl Material__359__X__04Sub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd X—Ñ04.bmp
+
+newmtl Material__359_kusa_02Sub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd G‘01.bmp
+
+newmtl Material__359_kusa_01Sub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ‘03.bmp
+
+newmtl _X__05
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd X—Ñ05.bmp
+

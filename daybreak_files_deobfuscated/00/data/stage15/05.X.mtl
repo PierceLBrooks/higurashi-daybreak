@@ -1,0 +1,192 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__360_dust1Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd dust1.bmp
+
+newmtl Material__360_mat15Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd plate02.bmp
+
+newmtl Material__360_mat16Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd plate03.bmp
+
+newmtl Material__360_dust4.psdSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd dust4.bmp
+
+newmtl Material__360_dust6.psdSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd dust6.bmp
+
+newmtl Material__360_dust5.psdSub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd dust5.bmp
+
+newmtl Material__360_mat14Sub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd plate01.bmp
+
+newmtl Material__360____g_^____11.bmpSub7
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 青トタンの11.bmp
+
+newmtl Material__360__h________02.bmpSub8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ドラム缶赤02.bmp
+
+newmtl Material__360__h______.bmpSub9
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ドラム缶.bmp
+
+newmtl Material__360__g_^____03.bmpSub10
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd トタン板03.bmp
+
+newmtl Material__360__I__Sub11
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 白棚01.bmp
+
+newmtl Material__360__e___rSub12
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd テレビ02.bmp
+
+newmtl Material__360_fLiftSub13
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd fklift.bmp
+
+newmtl Material__360_ka-neru_fukuSub14
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd カーネル01.bmp
+
+newmtl Material__363_dust4.psdSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd dust4.bmp
+
+newmtl Material__363____g_^____11.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 青トタンの11.bmp
+
+newmtl Material__384__h________02.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ドラム缶赤02.bmp
+
+newmtl Material__384_dust4.psdSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd dust4.bmp
+
+newmtl Material__384____g_^____11.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 青トタンの11.bmp
+
+newmtl Material__385_dust4.psdSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd dust4.bmp
+
+newmtl Material__385____g_^____11.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 青トタンの11.bmp
+
+newmtl Material__396_mat16Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd plate03.bmp
+
+newmtl Material__396__h______.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ドラム缶.bmp
+
+newmtl Material__396__h________02.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ドラム缶赤02.bmp
+
+newmtl Material__396_dust4.psdSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd dust4.bmp
+
+newmtl Material__396____g_^____11.bmpSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 青トタンの11.bmp
+

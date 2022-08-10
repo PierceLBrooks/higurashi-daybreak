@@ -1,0 +1,10 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl PDX___S_C
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.654901981 0.764705956 0.43921572
+illum 1
+map_Kd ウォーターガン.bmp
+

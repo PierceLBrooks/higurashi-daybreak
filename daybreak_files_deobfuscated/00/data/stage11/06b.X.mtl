@@ -1,0 +1,59 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__2522_treeB02Sub0
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 真木大01.bmp
+
+newmtl Material__2522_treeB01Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__2524_treeB02Sub0
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 真木大01.bmp
+
+newmtl Material__2524_treeB01Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__2523_treeA01Sub0
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__2523_treeA03Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 真木の葉上から.bmp
+
+newmtl Material__2525_treeA01Sub0
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__2525_treeA03Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 真木の葉上から.bmp
+

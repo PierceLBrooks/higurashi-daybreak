@@ -1,0 +1,31 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__3841_treeB02Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ^–Ø‘å01.bmp
+
+newmtl Material__3841_treeB01Sub1
+Kd 1 1 1
+Ks 0.049999997 0.049999997 0.049999997
+Ke 0 0 0
+illum 1
+map_Kd –ØÅVŠ²04.bmp
+
+newmtl Material__3843____t____Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd –Ø‚Ì—t05.bmp
+
+newmtl Material__3843_____Sub1
+Kd 1 1 1
+Ks 0.049999997 0.049999997 0.049999997
+Ke 0 0 0
+illum 1
+map_Kd –Ø‚Ì”ç.bmp
+

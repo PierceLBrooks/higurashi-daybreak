@@ -1,0 +1,66 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__57_zubonSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.384313762 0.545098066 0.474509835
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__57_fukuSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.360784322 0.580392182 0.368627459
+illum 1
+map_Kd 服.bmp
+
+newmtl Material__57_udeSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.862745166 0.588235319 0.509803951
+illum 1
+map_Kd 服.bmp
+
+newmtl Material__57_faceSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.862745166 0.588235319 0.509803951
+illum 1
+map_Kd 一顔.bmp
+
+newmtl Material__57_hatSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.427451015 0.239215702 0.164705887
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__57_headSub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.670588255 0.466666698 0.411764741
+illum 1
+map_Kd スカート.bmp
+
+newmtl kutu
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.435294151 0.231372565 0.141176477
+illum 1
+map_Kd スカート.bmp
+
+newmtl megane
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.800000072 0.78039223 0.745098054
+illum 1
+map_Kd 富竹眼鏡.bmp
+
+newmtl eye
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.701960802 0.82745105 1
+illum 1
+map_Kd 一目.bmp
+

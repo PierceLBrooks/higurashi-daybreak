@@ -1,0 +1,199 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__3445__g_^______Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd ƒgƒ^ƒ“.bmp
+
+newmtl Material__3445_mat3Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ‘å•Ç.bmp
+
+newmtl Material__3445_minka_02Sub2
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®03.bmp
+
+newmtl Material__3445_mat2Sub3
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®04.bmp
+
+newmtl Material__3445_mat4Sub4
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®05.bmp
+
+newmtl _m____
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd ˜m•˜‚«‰®ª.bmp
+
+newmtl mat4
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®05.bmp
+
+newmtl minka_02
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®03.bmp
+
+newmtl Material__3462_03Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd Z’ëÅ08.bmp
+
+newmtl Material__3462_minka_02Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®03.bmp
+
+newmtl Material__3463_03Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd Z’ëÅ08.bmp
+
+newmtl Material__3463_minka_02Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®03.bmp
+
+newmtl Material__3446_minka_02Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®03.bmp
+
+newmtl Material__3446__g_^______Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd ƒgƒ^ƒ“.bmp
+
+newmtl Material__3447_minka_02Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®03.bmp
+
+newmtl Material__3447__m____Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd ˜m•˜‚«‰®ª.bmp
+
+newmtl Material__3448_minka_02Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®03.bmp
+
+newmtl Material__3448_mat4Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®05.bmp
+
+newmtl Material__3448__g_^______Sub2
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd ƒgƒ^ƒ“.bmp
+
+newmtl Material__3448_mat3Sub3
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ‘å•Ç.bmp
+
+newmtl Material__3449_minka_02Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®03.bmp
+
+newmtl Material__3449_mat2Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®04.bmp
+
+newmtl Material__3449_mat4Sub2
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ•½‰®05.bmp
+
+newmtl Material__3449__g_^______Sub3
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd ƒgƒ^ƒ“.bmp
+
+newmtl Material__3449_mat3Sub4
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd –¯‰Æ‘å•Ç.bmp
+
+newmtl Material__3449__m____Sub5
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd ˜m•˜‚«‰®ª.bmp
+
+newmtl Material__3449_kyatatuSub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd ‹r—§09.bmp
+
+newmtl dentyu
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd “d’Œ–Ø08.bmp
+

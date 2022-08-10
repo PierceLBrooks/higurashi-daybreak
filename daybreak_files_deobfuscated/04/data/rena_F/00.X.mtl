@@ -1,0 +1,87 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Rhead
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.760784388 0.580392182 0.474509835
+illum 1
+map_Kd レナ髪の毛16.bmp
+
+newmtl Material__57_RfaceSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 一顔.bmp
+
+newmtl Material__57_RheadSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.760784388 0.580392182 0.474509835
+illum 1
+map_Kd レナ髪の毛16.bmp
+
+newmtl Material__57_RashiSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__57_RkutuSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.749019623 0.600000024 0.43921572
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__57_RkutusitaSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.627451003 0.862745166
+illum 1
+map_Kd スカート.bmp
+
+newmtl Material__57_fuku_bureza-Sub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.509803951 0.627451003
+illum 1
+map_Kd 服.bmp
+
+newmtl Material__57_fuku_syatuSub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.627451003 0.862745166
+illum 1
+map_Kd 服.bmp
+
+newmtl Material__57_fuku_udeSub7
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 服.bmp
+
+newmtl Material__57_fuku_nekutaiSub8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.745098054 0.447058856 0.447058856
+illum 1
+map_Kd 服.bmp
+
+newmtl Reye
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.694117665 0.823529482 1
+illum 1
+map_Kd 一目.bmp
+
+newmtl Rashi
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.760784388 0.541176498 0.474509835
+illum 1
+map_Kd スカート.bmp
+

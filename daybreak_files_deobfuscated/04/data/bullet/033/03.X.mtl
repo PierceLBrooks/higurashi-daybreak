@@ -1,0 +1,26 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl PDX__
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.65882355 0.690196097 0.831372619
+illum 1
+map_Kd 鉈02.bmp
+
+newmtl mat1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.760784388 0.737254918 0.80392164
+Ns 32
+illum 2
+map_Kd 鉈回転エフェクト.bmp
+
+newmtl mat1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.760784388 0.737254918 0.80392164
+Ns 32
+illum 2
+map_Kd 鉈回転エフェクト.bmp
+

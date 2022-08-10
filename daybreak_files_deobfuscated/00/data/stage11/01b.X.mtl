@@ -1,0 +1,283 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__2508_15Sub0
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd アスファルト中間09.bmp
+
+newmtl Material__2508_02Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 石垣その２01.bmp
+
+newmtl Material__2508_kusamuraSub2
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd くさむら06.bmp
+
+newmtl Material__2508_kusamura_tyuukanSub3
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd くさむら中間02.bmp
+
+newmtl Material__2508_03Sub4
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 校庭芝08.bmp
+
+newmtl Material__2508_kouteiSub5
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 校庭砂05.bmp
+
+newmtl Material__2508_siba_tyukanSub6
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 校庭芝生中間9.bmp
+
+newmtl Material__2508_koutei_kusaSub7
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 校庭砂草小02.bmp
+
+newmtl Material__2508_14Sub8
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd アスファルト05.bmp
+
+newmtl Material__2508_40Sub9
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 石段07.bmp
+
+newmtl Material__2508_26Sub10
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 石垣小11.bmp
+
+newmtl Material__2508_isidan_kusaSub11
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 石段草01.bmp
+
+newmtl Material__2508_49Sub12
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 石壁上06.bmp
+
+newmtl Material__2508_48Sub13
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 岩壁04テスト.bmp
+
+newmtl Material__2508_50Sub14
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 石壁上ｂ04.bmp
+
+newmtl yama
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 山草近景01.bmp
+
+newmtl Material__2511_21Sub0
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd ガードレール03.bmp
+
+newmtl Material__2511_39Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd マンホール10.bmp
+
+newmtl Material__2511_28Sub2
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd マンホール大01.bmp
+
+newmtl Material__2511_dentyuSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 電柱木08.bmp
+
+newmtl Material__2511_dentyu02Sub4
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 電柱広告02.bmp
+
+newmtl Material__2511_kyatatuSub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 脚立09.bmp
+
+newmtl Material__2511_25Sub6
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 柵標識3.bmp
+
+newmtl Material__2511_densenSub7
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 電線01.bmp
+
+newmtl Material__2518_blockSub0
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd ﾌﾞﾛｯｸ04.bmp
+
+newmtl Material__2518_37Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd パンジー03.bmp
+
+newmtl Material__2518_kyatatuSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 脚立09.bmp
+
+newmtl Material__2518_29Sub3
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 上葉っぱ03.bmp
+
+newmtl Material__2526_67Sub0
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 瓦09.bmp
+
+newmtl Material__2526_____12Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 民家12.bmp
+
+newmtl Material__2526_69Sub2
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd トタン板03.bmp
+
+newmtl Material__2526_08Sub3
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 小屋板B04.bmp
+
+newmtl Material__2526_06Sub4
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 小屋板04.bmp
+
+newmtl Material__2526_mat4Sub5
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 民家平屋05.bmp
+
+newmtl Material__2526_minka_02Sub6
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 民家平屋s01.bmp
+
+newmtl Material__2526__g_^______Sub7
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd トタン.bmp
+
+newmtl Material__2526______[Sub8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 窓ロー.bmp
+
+newmtl Material__2526_07Sub9
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 小屋板パーツ19.bmp
+
+newmtl Material__2526_minka_03Sub10
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 民家平屋03.bmp
+
+newmtl Material__2526__g_^__Sub11
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd トタン.bmp
+

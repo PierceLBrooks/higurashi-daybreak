@@ -1,0 +1,437 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__4996__{______Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体屋根赤.bmp
+
+newmtl Material__4996________lSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 神社模様.bmp
+
+newmtl Material__4996__{_____C__Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体メイン.bmp
+
+newmtl Material__4996_____3Sub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 白壁3.bmp
+
+newmtl Material__4996_____Sub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 白壁.bmp
+
+newmtl Material__4996__{____2lineSub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体石2line.bmp
+
+newmtl Material__4996__{____Sub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体扉.bmp
+
+newmtl Material__4996_____Sub7
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 床板.bmp
+
+newmtl Material__4996__{___K_i__Sub8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体階段柱.bmp
+
+newmtl Material__4996__{___K_i__Sub9
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体階段石m.bmp
+
+newmtl Material__4997__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__4997__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__4997______QSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居1b.bmp
+
+newmtl Material__4997_________Sub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居1a.bmp
+
+newmtl Material__4998__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__4998__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__4998____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__4999__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__4999__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__4999____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5000__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5000__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5000____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5001__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5001__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5001____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5002__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5002__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5002____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5003__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5003__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5003____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5004__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5004__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5004____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5005__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5005__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5005____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5006__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5006__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5006____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5007__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5007__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5007____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5008__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5008__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5008____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5009__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5009__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5009____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5010__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5010__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5010____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5011__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5011__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5011____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5012__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5012__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5012____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+
+newmtl Material__5013__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__5013__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__5013____U__1.bmpSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 灯篭石1.bmp
+

@@ -1,0 +1,150 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__4272_yamaSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 山草近景01.bmp
+
+newmtl Material__4272____i__02Sub1
+Kd 1 1 1
+Ks 0.00749999983 0.00749999983 0.00749999983
+Ke 0 0 0
+illum 1
+map_Kd 石段上02.bmp
+
+newmtl Material__4272____i__03Sub2
+Kd 1 1 1
+Ks 0.00749999983 0.00749999983 0.00749999983
+Ke 0 0 0
+illum 1
+map_Kd 石段上03.bmp
+
+newmtl Material__4272__R__Sub3
+Kd 1 1 1
+Ks 0.049999997 0.049999997 0.049999997
+Ke 0 0 0
+illum 1
+map_Kd 山道.bmp
+
+newmtl Material__4277_____Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 地面砂利.bmp
+
+newmtl Material__4277__n____3Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 地面石3.bmp
+
+newmtl Material__4277____i__03Sub2
+Kd 1 1 1
+Ks 0.00749999983 0.00749999983 0.00749999983
+Ke 0 0 0
+illum 1
+map_Kd 石段上03.bmp
+
+newmtl Material__4277____i__02Sub3
+Kd 1 1 1
+Ks 0.00749999983 0.00749999983 0.00749999983
+Ke 0 0 0
+illum 1
+map_Kd 石段上02.bmp
+
+newmtl Material__4277_yamaSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 山草近景01.bmp
+
+newmtl Material__4277__{___K_i__Sub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体階段石m.bmp
+
+newmtl Material__4277__{____1Sub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体石1.bmp
+
+newmtl _n____
+Kd 1 1 1
+Ks 0.049999997 0.049999997 0.049999997
+Ke 0 0 0
+illum 1
+map_Kd 山根02.bmp
+
+newmtl Material__4278_____Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 地面砂利.bmp
+
+newmtl Material__4278____i__02Sub1
+Kd 1 1 1
+Ks 0.00749999983 0.00749999983 0.00749999983
+Ke 0 0 0
+illum 1
+map_Kd 石段上02.bmp
+
+newmtl Material__4278____i__03Sub2
+Kd 1 1 1
+Ks 0.00749999983 0.00749999983 0.00749999983
+Ke 0 0 0
+illum 1
+map_Kd 石段上03.bmp
+
+newmtl _O___K__1a
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 外賽銭箱1a.bmp
+
+newmtl _{___K_i__
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 本体階段石m.bmp
+
+newmtl Material__4274__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__4274__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+
+newmtl Material__4273__________[_v2.bmpSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ2.bmp
+
+newmtl Material__4273__________[_v1.bmpSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 鳥居石ループ1.bmp
+

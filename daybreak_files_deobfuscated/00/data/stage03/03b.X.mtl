@@ -1,0 +1,24 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__4141____ESub0
+Kd 1 1 1
+Ks 0.049999997 0.049999997 0.049999997
+Ke 0 0 0
+illum 1
+map_Kd 草境目α付き.bmp
+
+newmtl Material__4141__n___t____Sub1
+Kd 1 1 1
+Ks 0.049999997 0.049999997 0.049999997
+Ke 0 0 0
+illum 1
+map_Kd 地面葉っぱ01.bmp
+
+newmtl Material__4141_____Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 地面砂利.bmp
+

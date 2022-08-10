@@ -1,0 +1,255 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__2509_TreeE03Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木省エネ03.bmp
+
+newmtl Material__2509______G_l__Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木省エネ大01.bmp
+
+newmtl Material__2509______G_l__02Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木省エネ大02.bmp
+
+newmtl Material__2509_TreeE01Sub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木省エネ01.bmp
+
+newmtl Material__2509_TreeE02Sub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木省エネ02.bmp
+
+newmtl Material__2509_mat1Sub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木省エネ小01.bmp
+
+newmtl Material__2509_TreeE04Sub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 丸木省エネ01.bmp
+
+newmtl Material__2509_65Sub7
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 地面クローバー03.bmp
+
+newmtl Material__2509_29Sub8
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 上葉っぱ03.bmp
+
+newmtl Material__2509_59Sub9
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 樅の木.bmp
+
+newmtl Material__2509_60Sub10
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 広葉樹02.bmp
+
+newmtl Material__2509_20Sub11
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 草上02.bmp
+
+newmtl Material__2509_happa_syutyuSub12
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 葉っぱ集中.bmp
+
+newmtl Material__2509_10Sub13
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 草01.bmp
+
+newmtl Material__2509_38Sub14
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 人参01.bmp
+
+newmtl Material__2509_treeB02Sub15
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 真木大01.bmp
+
+newmtl Material__2509_treeB01Sub16
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__2509_12Sub17
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 茂み上01.bmp
+
+newmtl Material__2509_treeA01Sub18
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__2509_treeA03Sub19
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 真木の葉上から.bmp
+
+newmtl Material__2509_kusa_01Sub20
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 草03.bmp
+
+newmtl Material__2509_kusa_02Sub21
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 雑草01.bmp
+
+newmtl Material__2509__X__05Sub22
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 森林05.bmp
+
+newmtl Material__2509__X__03Sub23
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 森林03.bmp
+
+newmtl Material__2509__X__04Sub24
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 森林04.bmp
+
+newmtl Material__2509__X__02Sub25
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 森林02.bmp
+
+newmtl Material__2509__X__06Sub26
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 森林06.bmp
+
+newmtl Material__2510_kusa_01Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 草03.bmp
+
+newmtl Material__2510_10Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 草01.bmp
+
+newmtl Material__2510_59Sub2
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 樅の木.bmp
+
+newmtl Material__2510_60Sub3
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 広葉樹02.bmp
+
+newmtl Material__2510_kusa_02Sub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 雑草01.bmp
+
+newmtl Material__2510_29Sub5
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 上葉っぱ03.bmp
+
+newmtl Material__2510_mat2Sub6
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 地面葉っぱのコピー.bmp
+
+newmtl Material__2510_12Sub7
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 茂み上01.bmp
+
+newmtl Material__2510_treeA01Sub8
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
