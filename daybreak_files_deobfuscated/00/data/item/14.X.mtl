@@ -1,0 +1,10 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl knife
+Kd 1 1 1
+Ks 0.0199999996 0.0199999996 0.0199999996
+Ke 0.56078434 0.588235319 0.721568644
+illum 1
+map_Kd 48_202_48_164_48_213.tga
+

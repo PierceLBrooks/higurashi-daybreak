@@ -1,0 +1,122 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__3450_______Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 103_40_48_110_118_174.tga
+
+newmtl Material__3450________tSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 103_175_48_140_103_40_132_73_48_99_48_113.tga
+
+newmtl Material__3451_treeB02Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 119_31_103_40_89_39_48_49.tga
+
+newmtl Material__3451_____Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 103_40_103_0_101_176_94_121_48_52.tga
+
+newmtl Material__3452_____Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 103_40_103_0_101_176_94_121_48_52.tga
+
+newmtl Material__3452_treeA03Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 119_31_103_40_89_39_48_49.tga
+
+newmtl Material__3453_______Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 103_40_48_110_118_174.tga
+
+newmtl Material__3453________tSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 103_175_48_140_103_40_132_73_48_99_48_113.tga
+
+newmtl Material__3454_treeB02Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 119_31_103_40_89_39_48_49.tga
+
+newmtl Material__3454_____Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 103_40_103_0_101_176_94_121_48_52.tga
+
+newmtl Material__3455_____Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 103_40_103_0_101_176_94_121_48_52.tga
+
+newmtl Material__3455_treeA03Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 119_31_103_40_89_39_48_49.tga
+
+newmtl Material__3456_treeB02Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 119_31_103_40_89_39_48_49.tga
+
+newmtl Material__3456_____Sub1
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 103_40_103_0_101_176_94_121_48_52.tga
+
+newmtl Material__3457_____Sub0
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 103_40_103_0_101_176_94_121_48_52.tga
+
+newmtl Material__3457_treeA03Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 119_31_103_40_89_39_48_49.tga
+
+newmtl ________
+Kd 1 1 1
+Ks 0.0350000001 0.0350000001 0.0350000001
+Ke 0 0 0
+illum 1
+map_Kd 131_73_88_131_118_238_59_1_78_216_48_77.tga
+

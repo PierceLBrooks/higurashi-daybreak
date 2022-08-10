@@ -1,0 +1,18 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl mat1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 32
+illum 2
+map_Kd 155_60_114_233_48_168_48_213_48_167_48_175_48_200_48_50.tga
+
+newmtl face
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.615686297 0.376470625 0.282352954
+illum 1
+map_Kd 155_60_114_233.tga
+

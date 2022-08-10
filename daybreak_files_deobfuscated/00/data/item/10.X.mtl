@@ -1,0 +1,10 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl PDX___S_C
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.46274513 0.56078434 0.847058892
+illum 1
+map_Kd 108_52_146_68_120_50.tga
+

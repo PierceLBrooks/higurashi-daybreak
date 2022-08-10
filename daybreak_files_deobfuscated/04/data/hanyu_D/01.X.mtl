@@ -1,0 +1,66 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__210_fuku_hadaSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 103_13.tga
+
+newmtl Material__210_fuku_mainSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.525490224 0.525490224 0.792156935
+illum 1
+map_Kd 103_13.tga
+
+newmtl Material__210_sukato_ashiSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl Material__210_faceSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 78_0_152_84.tga
+
+newmtl Material__210_sandaruSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.454901993 0.588235319 0.772549093
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl Material__210_headSub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.650980413 0.482352972 0.749019623
+illum 1
+map_Kd 127_189_81_101_154_234_48_110_107_219.tga
+
+newmtl head
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.650980413 0.482352972 0.749019623
+illum 1
+map_Kd 127_189_81_101_154_234_48_110_107_219.tga
+
+newmtl tuno
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.498039246 0.431372583 0.545098066
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl eye
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.623529434 0.784313798 1
+illum 1
+map_Kd 78_0_118_238.tga
+

@@ -1,0 +1,108 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__40__e____Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_92_15_92_75_48_49.tga
+
+newmtl Material__40__e_d__01Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_150_251_103_241_48_49.tga
+
+newmtl Material__40__e____02Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_92_15_92_75_48_50.tga
+
+newmtl Material__40__e_m________Sub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_133_193_132_122_48_77_92_75_104_57.tga
+
+newmtl Material__40__e_q__Sub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_80_9_94_171_48_49.tga
+
+newmtl Material__40__e__01Sub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_103_40_48_49.tga
+
+newmtl Material__40__e__02Sub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_103_40_48_50.tga
+
+newmtl Material__40__e____Sub7
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_108_17_91_182_48_49.tga
+
+newmtl Material__40__e__01Sub8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_88_193_48_49.tga
+
+newmtl Material__40__e_____iSub9
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_88_193_144_96_102_111_48_49.tga
+
+newmtl Material__40______iSub10
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 91_182_144_96_102_111_48_49.tga
+
+newmtl Material__40______i02Sub11
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 91_182_144_96_102_111_48_50.tga
+
+newmtl Material__40__e__03Sub12
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_103_40_48_52.tga
+
+newmtl Material__40__e__02Sub13
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_88_193_48_50.tga
+
+newmtl Material__40__e____03Sub14
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 95_113_92_15_92_75_48_51.tga
+

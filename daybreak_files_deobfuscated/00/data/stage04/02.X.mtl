@@ -1,0 +1,157 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__2739_mat2Sub0
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 87_48_151_98_132_73_48_99_48_113_48_110_48_179_48_212_48_252.tga
+
+newmtl Material__2739_kusa_01Sub1
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 131_73_48_51.tga
+
+newmtl Material__2739_kusa_02Sub2
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 150_209_131_73_48_49.tga
+
+newmtl Material__2739__V__Sub3
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 48_183_48_192_48_49.tga
+
+newmtl Material__2739______`Sub4
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 131_2_48_127_78_10_48_49.tga
+
+newmtl Material__2739_60Sub5
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 94_131_132_73_106_57_48_50.tga
+
+newmtl Material__2739_happa_syutyuSub6
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 132_73_48_99_48_113_150_198_78_45.tga
+
+newmtl Material__2739____t____Sub7
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 78_10_132_73_48_99_48_113_48_51.tga
+
+newmtl Material__2739____tSub8
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 103_175_48_140_103_40_132_73_48_99_48_113.tga
+
+newmtl Material__2739__n___t____Sub9
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 87_48_151_98_132_73_48_99_48_113_48_49.tga
+
+newmtl Material__2739__L_t__Sub10
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 94_131_132_73_106_57_48_50.tga
+
+newmtl Material__2739____t____Sub11
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 133_87_132_73_48_99_48_113.tga
+
+newmtl Material__2739____sSub12
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 133_87_131_14.tga
+
+newmtl Material__2742__X__05Sub0
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 104_238_103_151_48_53.tga
+
+newmtl Material__2742__X__04Sub1
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 104_238_103_151_48_52.tga
+
+newmtl Material__2742__X__03Sub2
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 104_238_103_151_48_51.tga
+
+newmtl Material__2742__X__06Sub3
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 104_238_103_151_48_54.tga
+
+newmtl Material__2742__X__02Sub4
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 104_238_103_151_48_50.tga
+
+newmtl _X__03
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 104_238_103_151_48_51.tga
+
+newmtl Material__2743__tSub0
+Kd 1 1 1
+Ks 0.049999997 0.049999997 0.049999997
+Ke 0 0 0
+illum 1
+map_Kd 132_73_48_99_48_113_92_15_48_49.tga
+
+newmtl Material__2743___Sub1
+Kd 1 1 1
+Ks 0.049999997 0.049999997 0.049999997
+Ke 0 0 0
+illum 1
+map_Kd 94_121_118_125.tga
+
+newmtl _n___t____
+Kd 1 1 1
+Ks 0.0374999978 0.0374999978 0.0374999978
+Ke 0 0 0
+illum 1
+map_Kd 87_48_151_98_132_73_48_99_48_113_48_49.tga
+

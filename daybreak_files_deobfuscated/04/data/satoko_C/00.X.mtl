@@ -1,0 +1,73 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__178_bandSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.427451015 0.450980425 0.517647088
+illum 1
+map_Kd 108_153_144_253_91_80_154_234_48_110_107_219_48_52.tga
+
+newmtl Material__178_headSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.745098054 0.592156887 0.431372583
+illum 1
+map_Kd 108_153_144_253_91_80_154_234_48_110_107_219_48_52.tga
+
+newmtl Material__189_kutuSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.713725507 0.552941203 0.423529446
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl Material__189_taituSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.325490206 0.329411775 0.403921604
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl Material__189_faceSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 78_0_152_84.tga
+
+newmtl Material__189_headSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.768627524 0.611764729 0.482352972
+illum 1
+map_Kd 108_153_144_253_91_80_154_234_48_110_107_219_48_52.tga
+
+newmtl Material__189_fukuSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.392156899 0.784313798 0.784313798
+illum 1
+map_Kd 103_13.tga
+
+newmtl Material__189_ashiSub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl Material__189_udeSub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 103_13.tga
+
+newmtl eye
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.615686297 0.78039223 1
+illum 1
+map_Kd 78_0_118_238.tga
+

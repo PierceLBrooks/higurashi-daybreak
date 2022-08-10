@@ -1,0 +1,31 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__57_faceSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 101_176_108_153_144_253_91_80_152_84.tga
+
+newmtl Material__57_headSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.772549093 0.643137276 0.490196109
+illum 1
+map_Kd 108_153_144_253_91_80_154_234_48_110_107_219_48_52.tga
+
+newmtl Material__57_bandSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.490196109 0.490196109 0.490196109
+illum 1
+map_Kd 108_153_144_253_91_80_154_234_48_110_107_219_48_52.tga
+
+newmtl Material__57_eyeSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.686274529 0.788235366 1
+illum 1
+map_Kd 一目.bmp
+

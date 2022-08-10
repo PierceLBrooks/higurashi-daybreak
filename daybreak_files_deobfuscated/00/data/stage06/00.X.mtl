@@ -1,0 +1,17 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__310__RSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 107_117_109_111.tga
+
+newmtl Material__310_____Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 150_242_78_10_48_49.tga
+

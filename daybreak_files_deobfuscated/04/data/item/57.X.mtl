@@ -1,0 +1,10 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl katana
+Kd 1 1 1
+Ks 0.0250000004 0.0250000004 0.0250000004
+Ke 0.686274529 0.482352972 0.48627454
+illum 1
+map_Kd 107_97_116_97_110_97_48_50.tga
+

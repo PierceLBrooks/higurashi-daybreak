@@ -1,0 +1,59 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__2522_treeB02Sub0
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 119_31_103_40_89_39_48_49.tga
+
+newmtl Material__2522_treeB01Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 103_40_103_0_101_176_94_121_48_52.tga
+
+newmtl Material__2524_treeB02Sub0
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 119_31_103_40_89_39_48_49.tga
+
+newmtl Material__2524_treeB01Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 103_40_103_0_101_176_94_121_48_52.tga
+
+newmtl Material__2523_treeA01Sub0
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 103_40_103_0_101_176_94_121_48_52.tga
+
+newmtl Material__2523_treeA03Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 119_31_103_40_48_110_132_73_78_10_48_75_48_137.tga
+
+newmtl Material__2525_treeA01Sub0
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 103_40_103_0_101_176_94_121_48_52.tga
+
+newmtl Material__2525_treeA03Sub1
+Kd 1 1 1
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+map_Kd 119_31_103_40_48_110_132_73_78_10_48_75_48_137.tga
+

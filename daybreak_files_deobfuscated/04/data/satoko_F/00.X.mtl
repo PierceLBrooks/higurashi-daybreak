@@ -1,0 +1,115 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__187_fukuSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.627451003 0.862745166
+illum 1
+map_Kd 103_13.tga
+
+newmtl Material__187_ashiSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl Material__187_taituSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.627451003 0.862745166
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl Material__187_udeSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 103_13.tga
+
+newmtl Material__187_faceSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 78_0_152_84.tga
+
+newmtl Material__187_headSub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.768627524 0.650980413 0.482352972
+illum 1
+map_Kd 108_153_144_253_91_80_154_234_48_110_107_219_48_52.tga
+
+newmtl Material__187_kutuSub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.427451015 0.427451015 0.427451015
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl Material__187_ribon_redSub7
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.686274529 0.447058856 0.745098054
+illum 1
+map_Kd 103_13.tga
+
+newmtl Material__187_furiruSub8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.627451003 0.862745166
+illum 1
+map_Kd 48_213_48_234_48_235_48_50.tga
+
+newmtl Material__188_sukatoSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.498039246 0.498039246 0.498039246
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl Material__188_fukuSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.627451003 0.862745166
+illum 1
+map_Kd 103_13.tga
+
+newmtl Material__188_furiruSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.627451003 0.862745166
+illum 1
+map_Kd 48_213_48_234_48_235_48_50.tga
+
+newmtl Material__189_bandSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.474509835 0.474509835 0.474509835
+illum 1
+map_Kd 108_153_144_253_91_80_154_234_48_110_107_219_48_52.tga
+
+newmtl Material__189_headSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.768627524 0.650980413 0.482352972
+illum 1
+map_Kd 108_153_144_253_91_80_154_234_48_110_107_219_48_52.tga
+
+newmtl fuku
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.627451003 0.862745166
+illum 1
+map_Kd 103_13.tga
+
+newmtl eye
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.615686297 0.831372619 1
+illum 1
+map_Kd 78_0_118_238.tga
+

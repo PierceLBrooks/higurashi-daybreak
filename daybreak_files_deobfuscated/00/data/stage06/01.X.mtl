@@ -1,0 +1,163 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__194__{______Sub0
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体屋根.bmp
+
+newmtl Material__194________lSub1
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 神社模様.bmp
+
+newmtl Material__194__{_____C__Sub2
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体メイン.bmp
+
+newmtl Material__194_____Sub3
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 白壁.bmp
+
+newmtl Material__194__{____2Sub4
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体石2.bmp
+
+newmtl Material__194__{____Sub5
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体扉.bmp
+
+newmtl Material__194_____3Sub6
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 白壁3.bmp
+
+newmtl Material__194__{___K_i__Sub7
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体階段柱.bmp
+
+newmtl Material__194__{____2lineSub8
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体石2line.bmp
+
+newmtl Material__194__{____1Sub9
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体石1.bmp
+
+newmtl Material__194__n____3Sub10
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 92_113_104_57_48_50_95_49.tga
+
+newmtl Material__194__{___K_i__Sub11
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 本体階段石m.bmp
+
+newmtl Material__194__zSub12
+Kd 0.0780000016 0.101999998 0.203999996
+Ks 0.0375000015 0.0375000015 0.0375000015
+Ke 0 0 0
+illum 1
+
+newmtl Material__194________l_QSub13
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 神社模様２.bmp
+
+newmtl Material__195_seifuku_fukuSub0
+Kd 1 1 1
+Ks 0.0250000004 0.0250000004 0.0250000004
+Ke 0 0 0
+illum 1
+map_Kd 114_101_110_97_102_117_107_117_55.tga
+
+newmtl Material__195_seifuku_faceSub1
+Kd 1 1 1
+Ks 0.0250000004 0.0250000004 0.0250000004
+Ke 0 0 0
+illum 1
+map_Kd 114_101_110_97_102_97_99_101_49_56.tga
+
+newmtl Material__195_seifuku_headSub2
+Kd 1 1 1
+Ks 0.0250000004 0.0250000004 0.0250000004
+Ke 0 0 0
+illum 1
+map_Kd 48_236_48_202_154_234_48_110_107_219_49_54.tga
+
+newmtl Material__195_seifuku_sukatoSub3
+Kd 1 1 1
+Ks 0.0250000004 0.0250000004 0.0250000004
+Ke 0 0 0
+illum 1
+map_Kd 48_236_48_202_48_185_48_171_48_252_48_200_49_55.tga
+
+newmtl _n____3
+Kd 1 1 1
+Ks 0.0500000007 0.0500000007 0.0500000007
+Ke 0 0 0
+illum 1
+map_Kd 92_113_104_57_48_50_95_49.tga
+
+newmtl __
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 117_58.tga
+
+newmtl __
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 117_58.tga
+
+newmtl __
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 117_58.tga
+
+newmtl __
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 117_58.tga
+

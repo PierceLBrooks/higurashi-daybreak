@@ -1,0 +1,73 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__133_fukuSub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.784313798 0.588235319
+illum 1
+map_Kd 103_13.tga
+
+newmtl Material__133_udeSub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 103_13.tga
+
+newmtl Material__133_namaashiSub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl Material__133_pantsSub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.552941203 0.741176486 0.862745166
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl Material__133_sandaruSub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.411764741 0.549019635 0.733333349
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl Material__133_faceSub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.913725555 0.749019623 0.678431392
+illum 1
+map_Kd 78_0_152_84.tga
+
+newmtl Material__133_headSub6
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.368627459 0.490196109 0.741176486
+illum 1
+map_Kd 104_168_130_177_154_234_48_110_107_219_48_49.tga
+
+newmtl sukato
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.470588267 0.784313798 0.588235319
+illum 1
+map_Kd 48_185_48_171_48_252_48_200.tga
+
+newmtl eye
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.674509823 0.82745105 1
+illum 1
+map_Kd 78_0_118_238.tga
+
+newmtl head
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.368627459 0.490196109 0.741176486
+illum 1
+map_Kd 104_168_130_177_154_234_48_110_107_219_48_49.tga
+

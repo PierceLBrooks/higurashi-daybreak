@@ -1,0 +1,10 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl nata
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.525490224 0.588235319 0.65882355
+illum 1
+map_Kd 48_201_48_233_48_180_48_243_146_72.tga
+

@@ -1,0 +1,73 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.3369795085)
+
+newmtl Material__355__X__05Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 104_238_103_151_48_53.tga
+
+newmtl Material__355__X__03Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 104_238_103_151_48_51.tga
+
+newmtl Material__355__X__04Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 104_238_103_151_48_52.tga
+
+newmtl Material__359_treeB02Sub0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 119_31_103_40_89_39_48_49.tga
+
+newmtl Material__359_12Sub1
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 茂み上01.bmp
+
+newmtl Material__359_treeA01Sub2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 木最新幹04.bmp
+
+newmtl Material__359__X__04Sub3
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 104_238_103_151_48_52.tga
+
+newmtl Material__359_kusa_02Sub4
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 150_209_131_73_48_49.tga
+
+newmtl Material__359_kusa_01Sub5
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 131_73_48_51.tga
+
+newmtl _X__05
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+illum 1
+map_Kd 104_238_103_151_48_53.tga
+
